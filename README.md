@@ -1,29 +1,4 @@
-# vue_crash_todolist
+# Vue Crash Course (TodoList)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Project created according to the Traversy's Media tutorial [Vue JS Crash Course 2019](https://www.youtube.com/watch?v=Wy9q22isx3U&t=50s) - 
+good way to start to learning Vue.js - a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
