@@ -5,3 +5,7 @@ good way to start to learning Vue.js - a progressive, incrementally-adoptable Ja
 
 You will need to install [uuid library](https://github.com/kelektiv/node-uuid):
 > npm i uuid
+
+Screenshots:
+
+![TodoList](images/todolist-screen1.png)
