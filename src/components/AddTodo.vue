@@ -14,7 +14,7 @@
 </template>
 
 <script>
-    import uuid from 'uuid';
+    // import uuid from 'uuid';
     export default {
         name: "AddTodo",
         data() {
@@ -24,12 +24,13 @@
         },
         methods: {
             addTodo(e) {
+                // prevent form submitted and refresh the page
                 e.preventDefault();
                 const newTodo = {
-                    id: uuid.v4(),
+                    // id: uuid.v4(),
                     title: this.title,
                     completed: false
-                }
+                };
                 // Send up newTodo object to parent
                 this.$emit('add-todo', newTodo);
 
